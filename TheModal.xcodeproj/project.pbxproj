@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7A93490621E1FBFC00068970 /* InfomationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A93490521E1FBFC00068970 /* InfomationViewController.swift */; };
 		7AA959FA21CA3C4700A9A29E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AA959F921CA3C4700A9A29E /* AppDelegate.swift */; };
 		7AA959FC21CA3C4700A9A29E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AA959FB21CA3C4700A9A29E /* ViewController.swift */; };
 		7AA95A0121CA3C4D00A9A29E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7AA95A0021CA3C4D00A9A29E /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7A93490521E1FBFC00068970 /* InfomationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfomationViewController.swift; sourceTree = "<group>"; };
 		7AA959F621CA3C4700A9A29E /* TheModal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TheModal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7AA959F921CA3C4700A9A29E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7AA959FB21CA3C4700A9A29E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				7AA95A0021CA3C4D00A9A29E /* Assets.xcassets */,
 				7AA95A0221CA3C4D00A9A29E /* LaunchScreen.storyboard */,
 				7AA95A0521CA3C4D00A9A29E /* Info.plist */,
+				7A93490521E1FBFC00068970 /* InfomationViewController.swift */,
 			);
 			path = TheModal;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A93490621E1FBFC00068970 /* InfomationViewController.swift in Sources */,
 				7AA959FC21CA3C4700A9A29E /* ViewController.swift in Sources */,
 				7AA95A2821CA3E2E00A9A29E /* ModalController.swift in Sources */,
 				7AA959FA21CA3C4700A9A29E /* AppDelegate.swift in Sources */,
